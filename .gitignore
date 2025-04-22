@@ -1,0 +1,18 @@
+
+# Solidity build artifacts
+*.abi
+*.bin
+*.json
+
+# Truffle
+build/
+node_modules/
+
+# Hardhat
+artifacts/
+cache/
+typechain/
+
+# Remix
+*.db
+*.env
