@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/RAMX%20logo.png" width="180" alt="RAMX Logo" />
+</p>
+
 # RAMToken ($RAMX)
 
 **Rebellion Against Mediocrity**  
